@@ -13,10 +13,9 @@
         <summary>Funambol Integration</summary>
         <release-date>2016-11-15</release-date>
         <vendor url="http://www.project-open.com/">]project-open[</vendor>
+	<license>]project-open[ Free License (FL)</license>
         <description format="text/plain">Synchronizes ]project-open[ users, tasks and contact information with the Funambol SyncML server.</description>
-
         <!-- No dependency information -->
-
         <callbacks>
         </callbacks>
         <parameters>
